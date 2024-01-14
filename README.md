@@ -1,2 +1,2 @@
 # GEN_AI
-LLM_models
+LLM_models and somme details
